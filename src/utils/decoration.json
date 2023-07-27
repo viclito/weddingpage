@@ -1,0 +1,44 @@
+[
+    {
+        "venue":"Party With Style",
+        "place":"Bengaluru",
+        "image":"decor1.jpeg",
+        "price":10000
+    },
+    {
+        "venue":"Decorative Party",
+        "place":"Bengaluru",
+        "image":"decor2.jpeg",
+        "price":25000
+    },
+    {
+        "venue":"Dazzling Party Decor",
+        "place":"Bengaluru",
+        "image":"decor3.jpeg",
+        "price":24000
+    },
+    {
+        "venue":"Party House Decor",
+        "place":"Bengaluru",
+        "image":"decor4.jpeg",
+        "price":35000
+    },
+    {
+        "venue":"Party Decorium",
+        "place":"Bengaluru",
+        "image":"decor5.jpeg",
+        "price":19000
+    },
+    {
+        "venue":"Party Convenience",
+        "place":"Bengaluru",
+        "image":"decor6.jpeg",
+        "price":20000
+    },
+    {
+        "venue":"Party Funland",
+        "place":"Bengaluru",
+        "image":"decor7.jpeg",
+        "price":17000
+    }
+]

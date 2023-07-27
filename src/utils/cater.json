@@ -1,0 +1,44 @@
+[
+    {
+        "venue":"Apple catering",
+        "place":"Bengaluru",
+        "image":"cater1.jpeg",
+        "price":30000
+    },
+    {
+        "venue":"Organic Chef Catering",
+        "place":"Bengaluru",
+        "image":"cater2.jpeg",
+        "price":20000
+    },
+    {
+        "venue":"Blue Plate Catering",
+        "place":"Bengaluru",
+        "image":"cater3.jpeg",
+        "price":24000
+    },
+    {
+        "venue":"A Matter of Taste",
+        "place":"Bengaluru",
+        "image":"cater4.jpeg",
+        "price":45000
+    },
+    {
+        "venue":"BRS Convention hall",
+        "place":"Bengaluru",
+        "image":"cater5.jpeg",
+        "price":18000
+    },
+    {
+        "venue":"Foodz Catering",
+        "place":"Bengaluru",
+        "image":"cater6.jpeg",
+        "price":40000
+    },
+    {
+        "venue":"Pearl Catering",
+        "place":"Bengaluru",
+        "image":"cater7.jpeg",
+        "price":60000
+    }
+]

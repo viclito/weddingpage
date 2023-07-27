@@ -1,0 +1,31 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Mulish', sans-serif;
+}
+
+.list{
+  list-style: none;
+  margin: 5px;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+.flex{
+  display: flex;
+  align-items: center;
+}
+.btn{
+  padding: .8rem 1.5rem;
+  font-size: 13px;
+  font-weight: 700;
+  border-radius: 3rem;
+  text-align: center;
+  cursor: pointer;
+  border: solid 1.5px #9c6326;
+
+  &:hover{
+    background-color: #F2404C;
+    color: #F3F9F2;
+  }
+}

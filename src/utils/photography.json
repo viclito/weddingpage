@@ -1,0 +1,44 @@
+[
+    {
+        "venue":"Zoom Photography",
+        "place":"Bengaluru",
+        "image":"photo1.jpg",
+        "price":20000
+    },
+    {
+        "venue":"LENS",
+        "place":"Bengaluru",
+        "image":"photo2.jpg",
+        "price":25000
+    },
+    {
+        "venue":"Captured Moments",
+        "place":"Bengaluru",
+        "image":"photo3.jpg",
+        "price":24000
+    },
+    {
+        "venue":"Bright Diamond",
+        "place":"Bengaluru",
+        "image":"photo7.jpg",
+        "price":25000
+    },
+    {
+        "venue":"Tripod Photography",
+        "place":"Bengaluru",
+        "image":"photo5.jpg",
+        "price":29000
+    },
+    {
+        "venue":"Fashionista Photo",
+        "place":"Bengaluru",
+        "image":"photo6.jpg",
+        "price":20000
+    },
+    {
+        "venue":"Chic Captures",
+        "place":"Bengaluru",
+        "image":"photo7.jpg",
+        "price":17000
+    }
+]

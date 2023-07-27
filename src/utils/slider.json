@@ -1,0 +1,44 @@
+[
+    {
+        "venue":"The destino",
+        "place":"Bengaluru",
+        "image":"Venue1.jpg",
+        "price":100000
+    },
+    {
+        "venue":"Moments Bengalore",
+        "place":"Bengaluru",
+        "image":"Venue2.jpeg",
+        "price":200000
+    },
+    {
+        "venue":"Anand Party hall",
+        "place":"Bengaluru",
+        "image":"Venue3.jpeg",
+        "price":240000
+    },
+    {
+        "venue":"Golden Metro",
+        "place":"Bengaluru",
+        "image":"Venue4.jpeg",
+        "price":150000
+    },
+    {
+        "venue":"BRS Convention hall",
+        "place":"Bengaluru",
+        "image":"Venue5.jpeg",
+        "price":180000
+    },
+    {
+        "venue":"The grand magrath",
+        "place":"Bengaluru",
+        "image":"Venue6.jpeg",
+        "price":400000
+    },
+    {
+        "venue":"Anandh hotel",
+        "place":"Bengaluru",
+        "image":"Venue7.jpeg",
+        "price":600000
+    }
+]
